@@ -1,5 +1,5 @@
 
-### Hi there, Schinaman, here ;) 👋
+### Hi there, Schinaman here ;) 👋
 - 🔭 back-end Java Developer.
 - 🌱 I’m currently learning: some concepts of Spring Cloud: https://www.udemy.com/course/microsservicos-java-spring-cloud/
 
