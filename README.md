@@ -29,13 +29,16 @@
   <img align="left" alt="Guigo-Jira" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
   <img align="left" alt="Guigo-Confluence" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" />
 
-          
+
+   <br><br>
   ##
+ 
+  
   <a href="https://www.linkedin.com/in/guilherme-ferigato-hiraoka-041b0885" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilherme.hiraoka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
    
-  ![Snake animation](https://github.com/schinaman/schinaman/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/schinaman/schinaman/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 
