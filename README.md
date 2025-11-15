@@ -1,7 +1,7 @@
 
 ### Hi there, Schinaman here ;) 👋
-- 🔭 back-end Java Developer.
-- 🌱 I’m currently learning: some concepts of Spring Cloud: https://www.udemy.com/course/microsservicos-java-spring-cloud/
+- 🌱 Spring Boot -Java Developer.
+-  I am athletic and I like to exercise, always striving to improve myself.
 
 
 <div align="center">
