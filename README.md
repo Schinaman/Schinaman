@@ -1,15 +1,7 @@
 
 ### Hi there, Schinaman here ;) 👋
 - 🌱 Spring Boot -Java Developer.
--  I am athletic and I like to exercise, always striving to improve myself.
-
-
-<div align="center">
-  <a href="https://github.com/schinaman">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=schinaman&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schinaman&layout=compact&langs_count=7&theme=merko"/>
-  
-</div>
+-  Always striving to improve myself.
 
  <br>
  <br>
