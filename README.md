@@ -1,6 +1,6 @@
 
 ### Hi there, Schinaman here ;) 👋
-- 🌱 Spring Boot -Java Developer.
+- 🌱 Spring Boot -Java Software Engineer.
 -  Always striving to improve myself.
 
  <br>
